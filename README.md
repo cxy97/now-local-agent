@@ -11,3 +11,7 @@ NOW 是一个面向周末短时本地探索场景的 AI 本地生活 Agent。用
 ```bash
 npm install
 npm run dev
+
+## 设计文档
+
+详见：[DESIGN.md](./DESIGN.md)
